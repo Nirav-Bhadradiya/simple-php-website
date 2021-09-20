@@ -56,5 +56,5 @@
           with:
             app-name: 'demo-phpwebapp'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_323163e928324fa69e5618257c385cab }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_70ee8ab82e9c42468226eb8adda189b8 }}
             package: .
